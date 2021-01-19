@@ -1,1 +1,3 @@
-# python_Projects
+### Com bases do aprendizado sobre a linguagem de python...
+
+### segue em anexo mini-exercicios usado para colocar em prática o conhecimento adquirido no momento
