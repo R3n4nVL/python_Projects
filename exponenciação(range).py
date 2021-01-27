@@ -1,15 +1,15 @@
 # EXPONENCIAÇÃO
 
 
-n = 0
+count = 1
 z = int(input("Digite a Base:"))
-count = int(input("Digite o range do expoente:"))
+n = int(input("Digite o range do expoente:"))
 
 
-while n != count:
-    x = z**n
-    print("{}**{} = {} ".format(z, n, x))
-    n += 1
+while count <= n:
+    x = z**count
+    print("{}**{} = {} ".format(z, count, x))
+    count += 1
 
 
 
